@@ -1,0 +1,22 @@
+*{
+    margin: 0 ; padding: 0;
+}
+.header {
+    height: 30px;width: 100%;
+    background-color: skyblue;
+}
+.header p{
+    line-height: 30px;
+}
+.ma {
+    width: 632px;
+    margin: 10px auto;
+}
+body{ background-image: url("https://images.cnblogs.com/cnblogs_com/tombraider-shadow/1478389/o_200924084646timg.jpg");background-repeat: no-repeat;background-attachment:fixed;}
+.subper{width: 100%;height:25px;font-weight: 700;text-align: center;line-height: 25px}
+.personalinformatin{ width: 100%;height: 305px;border:1px solid black;border-radius: 5px;padding: 10px;background-color: rgba(245, 245, 245, 0.7);}
+.left{height: 100%;width:400px;float: left}
+.right{height: 100%;width:200px;float: right}
+.mul{height: 150px;width: 100%;border: 1px solid black;border-radius: 10px;padding: 10px}
+.mul input {font-weight: 700;}.edu{width: 632px;height: auto;border:1px solid black;border-radius: 5px;}
+ .pri{width: 632px;height: auto;border:1px solid black;border-radius: 5px}
